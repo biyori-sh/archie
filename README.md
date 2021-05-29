@@ -5,7 +5,7 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 
 
 ## Changes in this fork
-- Google Analytics: google-analytics.html and and header.html
+- Google Analytics: google-analytics.html and header.html
 - Favicon: header.html(absolute path)
 - Apple touch icon: header.html
 
