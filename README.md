@@ -8,6 +8,7 @@ Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 - Google Analytics: google-analytics.html and header.html
 - Favicon: header.html(absolute path)
 - Apple touch icon: header.html
+- KaTeX: katex.html and footer.html
 
 
 ## Demo
