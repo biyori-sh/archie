@@ -3,6 +3,13 @@ Archie is a minimal and clean theme for hugo with a markdown-ish UI.
 
 Forked from [Ezhil Theme](https://github.com/vividvilla/ezhil)
 
+
+## Changes in this fork
+- Google Analytics: google-analytics.html and and header.html
+- Favicon: header.html(absolute path)
+- Apple touch icon: header.html
+
+
 ## Demo
 
 [Check the Demo](https://athul.github.io/archie/) hosted on GitHub Pages :smile: . You can find the source code to that in the `site` branch of this repository
