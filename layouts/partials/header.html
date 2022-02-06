@@ -66,4 +66,8 @@
     {{ if not .Site.IsServer }}
     {{ partial "google-analytics" . }}
     {{ end }}
+    <!-- Adsense -->
+    {{ if not .Site.IsServer }}
+    {{ partial "google-adsense" . }}
+    {{ end }}
 </head>
